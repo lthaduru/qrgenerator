@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: qrgenerator
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.company.qrgen.service.QRGenerator
+
