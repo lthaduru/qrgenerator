@@ -1,1 +1,2 @@
 # qrgenerator
+# qrreader
